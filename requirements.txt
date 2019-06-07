@@ -1,6 +1,6 @@
 delorean==1.0.0
-requests==2.18.3
+requests>=2.20.0
 beautifulsoup4==4.6.0
 feedparser==5.2.1
-jinja2==2.10
+jinja2>=2.10.1
 mistune==0.8.3
